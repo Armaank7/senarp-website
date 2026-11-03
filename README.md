@@ -74,4 +74,4 @@ These only show pages without photographs, as the photos on the site are of chil
 
 WordPress (block theme, `theme.json`), PHP, HTML, CSS, JavaScript, MySQL, Git and GitHub, Google Analytics 4, Google Search Console
 
-**Armaan Khan** | [LinkedIn](https://www.linkedin.com/in/armaan-khan-6a6447189)
+**Armaan Khan** | [LinkedIn](https://www.linkedin.com/in/armaan-khan-3k172)
